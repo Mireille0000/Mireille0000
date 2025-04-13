@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello, Everyone 👋
 
 #### I love coding and French✨Opend to programming job offers, coding collabs and experience exchanges 🤝
 
@@ -49,7 +49,6 @@ Other tools:
     <img src="https://brandslogos.com/wp-content/uploads/thumbs/prettier-logo.png" width="30"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="30"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="30"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" style="background-color="flex" width="30"/>
     <img src="https://w7.pngwing.com/pngs/667/16/png-transparent-websocket-hd-logo-thumbnail.png" width="30"/>
 </div>
 
