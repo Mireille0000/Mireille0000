@@ -2,7 +2,9 @@
 
 #### I love coding and French✨Opend to programming job offers, coding collabs and experience exchanges 🤝
 
-#### Hard Skills: 
+#### My Stack 
+<img src="https://github.com/user-attachments/assets/15f6eb35-13b0-4422-998a-59bfea6392d0" width="40"/>
+
 frontend:
 
 <div style="display="flex">
