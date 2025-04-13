@@ -4,7 +4,7 @@
 
 #### Hard Skills: 
 frontend: 
-![SASS](https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg)
+<img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" width="45"/>
 backend: 
 Node.js, PostgreSQL, GraphQL, Nest.js, Docker
 libraries: 
