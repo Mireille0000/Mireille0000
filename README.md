@@ -2,8 +2,7 @@
 
 #### I love coding and French✨Opend to programming job offers, coding collabs and experience exchanges 🤝
 
-#### My Stack 
-<img src="https://github.com/user-attachments/assets/15f6eb35-13b0-4422-998a-59bfea6392d0" width="40"/>
+#### My Stack <img src="https://github.com/user-attachments/assets/15f6eb35-13b0-4422-998a-59bfea6392d0" width="40"/>
 
 Frontend:
 
@@ -50,7 +49,7 @@ Other tools:
     <img src="https://brandslogos.com/wp-content/uploads/thumbs/prettier-logo.png" width="30"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="30"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="30"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="30"/>
-     <img src="https://w7.pngwing.com/pngs/667/16/png-transparent-websocket-hd-logo-thumbnail.png" width="30"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" style="backgroundColor="flex" width="30"/>
+    <img src="https://w7.pngwing.com/pngs/667/16/png-transparent-websocket-hd-logo-thumbnail.png" width="30"/>
 </div>
 
